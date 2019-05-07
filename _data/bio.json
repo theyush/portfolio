@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Yush Bhardwaj",
-    "label": "Student",
+    "label": "Security Analyst | Web Devloper",
     "picture": "https://techfolios.github.io/template/images/Yush.png",
     "email": "yushbhardwaj@yahoo.com",
-    "phone": "#",
+    "phone": "",
     "website": "https://theyush.github.io",
     "summary": "My professional experience security analyst includes diagnosing, addressing complex network issues, vulnerability assessment and educating users on the latest system updates. On freelance background I have worked on projects based on Python, HTML, CSS, JavaScript, and API's.",
     "location": {
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "theyush",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/theyush"
       },
       {
         "network": "linkedin",
@@ -45,11 +45,7 @@
         "Rasberry pi 3b+"
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
+
   ],
   "skills": [
     {
@@ -76,7 +72,7 @@
         "Nikto",
         "Wpscan",
         "Aircrack-ng",
-        "Git/GitHub",
+        "Firewall/IDS",
       ]
     }
   ],
@@ -116,7 +112,7 @@
         "Penetration Testing clientr side and patching them"
       ]
     }
-  ],
+  
   {
       "company": "Optware Technologies Pvt Ltd",
       "position": "Ssystem Administrator",
@@ -162,7 +158,8 @@
       "date": "2018",
       "awarder": "DTF Legal Services LLP",
       "summary": "I was nominated for Global Cyber Crime Helpline Award 2018 for performing vulnerability/penetration tesing on client's side and securing them."
-    },
+    }
+	],
   "references": [
     {
       "name": "Available upon request",
