@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Yush Bhardwaj",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/Yush.png",
+    "email": "yushbhardwaj@yahoo.com",
+    "phone": "#",
+    "website": "https://theyush.github.io",
+    "summary": "My professional experience security analyst includes diagnosing, addressing complex network issues, vulnerability assessment and educating users on the latest system updates. On freelance background I have worked on projects based on Python, HTML, CSS, JavaScript, and API's.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Delhi",
+      "countryCode": "India",
+      "region": "New Delhi"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "theyush",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "yushbhardwaj",
+        "url": "http://linkedin.com/in/yushbhardwaj"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "F1v3_",
+        "url": "http://twitter.com/F1v3_"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mr.yu54",
+        "url": "http://instagram.com/mr.yu54"
       }
     ]
   },
@@ -42,12 +42,7 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
+        "Rasberry pi 3b+"
       ]
     },
     {
@@ -61,12 +56,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "HTML",
+        "CSS",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
+        "C++"
       ]
     },
     {
@@ -75,60 +70,76 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Windows",
+        "Metasploit",
+        "Burpsuit",
+        "Nikto",
+        "Wpscan",
+        "Aircrack-ng",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "Dr. A.P.J. Abdul Kalam Technical University, University in Lucknow, Uttar Pradesh",
+      "area": "Information Technology",
+      "studyType": "B-Tech.",
       "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2016",
+      "gpa": "6.3",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Freelance",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2012-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Building web applications using custom php or CMS (processwire/ wordpress)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+        "Maintain, update multiple website and web application",
+        ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "DTF Legal Services LLP",
+      "position": "Security Analyst",
+      "website": "http://dtfservice.com",
+      "startDate": "2017-07-17",
+      "endDate": "2019-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues over the cleint's site",
+        "Penetration Testing clientr side and patching them"
+      ]
+    }
+  ],
+  {
+      "company": "Optware Technologies Pvt Ltd",
+      "position": "Ssystem Administrator",
+      "website": "http://optware.tech",
+      "startDate": "2017-07-17",
+      "endDate": "2019-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues",
+        "Manage the configuration and security issue resolution and administrate infrastructure"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Something Cool Ventures Pvt Ltd.",
+      "website": "http://somethingcool.in",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "startDate": "2017-05-07",
+      "endDate": "2019-03-15",
+      "summary": "Lead developer for 'World of Stydios' project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Design, Develop, Deploy & Maintain it's Security",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
@@ -140,26 +151,18 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Founding Member, ACM Student Branch, 2014-2015",
+        "Webmaster/IT Officer, ACM Student Chapter, Ghaziabad, UP, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Fortune Hunters of Digital India",
+      "date": "2018",
+      "awarder": "DTF Legal Services LLP",
+      "summary": "I was nominated for Global Cyber Crime Helpline Award 2018 for performing vulnerability/penetration tesing on client's side and securing them."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
   "references": [
     {
       "name": "Available upon request",
